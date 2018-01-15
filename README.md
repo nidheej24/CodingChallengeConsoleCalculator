@@ -1,2 +1,3 @@
 # ConsoleCalculator
-This is a Console Calculator which functions based on BODMAS rule. 
+This is an interactive Console Calculator which functions based on BODMAS rule.
+
